@@ -1,3 +1,5 @@
+#Projeto Iniciado com o intuito de coletar dados do usuário do spotify e exibi-los de como seria sua "Munchen Fest"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
