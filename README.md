@@ -1,4 +1,4 @@
-#Projeto Iniciado com o intuito de coletar dados do usuário do spotify e exibi-los de como seria sua "Munchen Fest"
+# Projeto Iniciado com o intuito de coletar dados do usuário do spotify e exibi-los de como seria sua "Munchen Fest"
 
 # Getting Started with Create React App
 
